@@ -1,4 +1,4 @@
-# 02 — Carga de datos
+# — Carga de datos
 
 En esta etapa realizamos tanto la carga del dataset de ejemplo como la inyección de datos manuales para validar el comportamiento en tiempo real del dashboard.
 

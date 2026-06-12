@@ -1,4 +1,4 @@
-Instalación de Docker y OpenSearch
+# Instalación de Docker y OpenSearch
 
 Para el despliegue del entorno de análisis de datos, se configuró un cluster de un solo nodo de **OpenSearch** junto con **OpenSearch Dashboards** mediante contenedores Docker.
 

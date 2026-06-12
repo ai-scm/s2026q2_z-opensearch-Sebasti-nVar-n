@@ -1,4 +1,4 @@
-# 03 — Dashboard y visualizaciones
+# Dashboard y visualizaciones
 
 Todas las visualizaciones fueron creadas desde la sección **Visualize** en OpenSearch Dashboards, utilizando el índice `opensearch_dashboards_sample_data_ecommerce` para monitorear el rendimiento de la tienda.
 

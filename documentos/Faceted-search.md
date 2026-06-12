@@ -1,4 +1,4 @@
-# 04 — Faceted Search (Búsqueda Faceteada)
+# Faceted Search (Búsqueda Faceteada)
 
 La búsqueda faceteada nos permite segmentar el volumen total de ventas combinando múltiples criterios de forma dinámica, replicando el comportamiento de un E-commerce real.
 

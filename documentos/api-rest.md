@@ -1,4 +1,4 @@
-— Exploración de la API REST
+Exploración de la API REST
 
 OpenSearch expone una API REST en `http://localhost:9200`. Hemos utilizado esta API para gestionar y consultar nuestro índice de eCommerce de forma directa, tanto desde la terminal como desde **Dev Tools**.
 

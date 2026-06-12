@@ -12,11 +12,11 @@ Este dashboard permite el monitoreo en tiempo real de ventas, tendencias tempora
 ## 📂 Estructura del Repositorio
 El proyecto está organizado para facilitar la revisión de cada etapa:
 
-*   `01-instalacion/`: Guía de despliegue del entorno con Docker.
-*   `02-Carga de datos/`: Scripts y ejemplos de carga manual de documentos JSON.
-*   `03-dashboard/`: Configuración y lógica de las visualizaciones creadas.
-*   `04-API rest/`: Documentación de las peticiones REST utilizadas.
-*   `05-faceted search/`: Configuración detallada de los filtros interactivos.
+*   `instalacion/`: Guía de despliegue del entorno con Docker.
+*   `Carga de datos/`: Scripts y ejemplos de carga manual de documentos JSON.
+*   `dashboard/`: Configuración y lógica de las visualizaciones creadas.
+*   `API rest/`: Documentación de las peticiones REST utilizadas.
+*   `faceted search/`: Configuración detallada de los filtros interactivos.
 *   `screenshots/`: Evidencia visual del funcionamiento del dashboard.
 
 ---
